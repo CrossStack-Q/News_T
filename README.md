@@ -1,7 +1,8 @@
 # New_T
 
-Cross_Note Makes It Easy To Capture A Thought Or List For
-Yourself,And Share It With Friends And Family.
+News_T is a new app with NewsAPI as backend and frontend
+with REACT. App is working good.
+Thats All.
 
 This App is made in React.
 
