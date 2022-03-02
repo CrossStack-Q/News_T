@@ -37,10 +37,8 @@ Go to the project directory
 
 ## Screenshots
 
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Home.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/SIgnUp.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Note.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Edit.png?raw=true)
+![App Screenshot](https://github.com/CrossStack-Q/News_T/blob/main/assets/one.png?raw=true)
+![App Screenshot](https://github.com/CrossStack-Q/News_T/blob/main/assets/ome.png?raw=true)
 
 
 ## Authors
