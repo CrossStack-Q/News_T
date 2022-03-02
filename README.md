@@ -37,8 +37,8 @@ Go to the project directory
 
 ## Screenshots
 
-![App Screenshot](https://github.com/CrossStack-Q/News_T/blob/main/assets/one.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/News_T/blob/main/assets/ome.png?raw=true)
+![App Screenshot](https://github.com/CrossStack-Q/News_T/blob/main/assets_/one.png?raw=true)
+![App Screenshot](https://github.com/CrossStack-Q/News_T/blob/main/assets_/ome.png?raw=true)
 
 
 ## Authors
